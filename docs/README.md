@@ -1,4 +1,4 @@
-# golib/timer ライブラリ
+# l4go/timer ライブラリ
 
 time.After()及び、time.Timer()の仕様がひどいので作られた、単純なタイマーモジュールです。
 
